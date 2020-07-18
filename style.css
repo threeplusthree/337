@@ -1,0 +1,49 @@
+h1{
+  text-align:center;
+  font-size:60px;
+  padding:0px;
+  padding-bottom:15px;
+  margin:0px;
+  color:green;
+}
+#title{
+  border-bottom:1px gray solid;
+  margin:0px;
+}
+#subtitle{
+  margin-bottom:20px;
+}
+a{
+  text-decoration:none;
+}
+#grid{
+  text-align:left;
+  display:grid;
+  grid-template-columns:150px 1fr;
+  margin:0px;
+  border-bottom:1px gray solid;
+  padding-bottom:0px;
+}
+body{
+  margin:0px;
+  font-family:consolas,나눔고딕;
+}
+div{
+  text-align:center;
+}
+#grid div{
+  text-align:left;
+  padding-left:20px;
+}
+
+ul{
+  border-right:1px solid gray;
+  margin:0px;
+  padding:20px;
+}
+#last{
+  text-align:right;
+}
+#nochange{
+  color:green;
+}
